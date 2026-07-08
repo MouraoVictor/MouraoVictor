@@ -1,15 +1,15 @@
 <table width="100%">
 <tr>
 <td width="35%" valign="middle">
-<h2>José Neto</h2>
+<h2>Victor Mourão</h2>
 <strong>Full Stack Developer</strong>
 <br>
-<small>UX/UI and Front-end Development</small>
+<small>Back-End Developer / SQL Developer</small>
 </td>
  
  
 <td width="65%" valign="middle">
-<h1>I build digital experiences where code and design work together.</h1>
+<h1>I build real API's focusing on resolving real problems.</h1>
 </td>
  
  
@@ -17,8 +17,7 @@
  
   <tr>
 <td colspan="2" valign="top">
-      I develop functional applications and clean interfaces, combining
-      software development, visual consistency and user-centered design.
+      I develop node, SQL, Java, PL/SQL softwares and WEB applications for real use.
 </td>
 </tr>
 </table>
@@ -49,16 +48,14 @@
 ## Designer Skills
  
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="32" height="32" alt="Figma">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="32" height="32" alt="Adobe Photoshop">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="32" height="32" alt="Adobe Illustrator">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="32" height="32" alt="Canva">
 </div>
  
 ## Contact
  
 <div align="left">
-<a href="https://www.linkedin.com/in/jose-hipolito-neto" target="_blank">
+<a href="https://www.linkedin.com/in/victor-mourao-dev/" target="_blank">
 <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
       width="32"
@@ -67,7 +64,7 @@
 >
 </a>
  
-  <a href="https://www.instagram.com/SEU-USUARIO/" target="_blank">
+  <a href="https://www.instagram.com/victormourao21/" target="_blank">
 <img
       src="https://cdn.simpleicons.org/instagram/E4405F"
       width="32"
