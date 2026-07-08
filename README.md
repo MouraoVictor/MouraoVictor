@@ -26,7 +26,7 @@
  
 <div align="center">
 <img
-    src="https://raw.githubusercontent.com/Jose-h-neto/Jose-h-neto/output/snake.svg"
+    src="https://raw.githubusercontent.com/MouraoVictor/MouraoVictor/output/snake.svg"
     alt="GitHub contribution snake animation"
 >
 </div>
