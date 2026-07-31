@@ -9,7 +9,7 @@
  
  
 <td width="65%" valign="middle">
-<h1>I build real API's focusing on resolving real problems.</h1>
+<h1>I build robust APIs and web applications designed to solve real-world problems.</h1>
 </td>
  
  
@@ -17,7 +17,7 @@
  
   <tr>
 <td colspan="2" valign="top">
-      I develop node, SQL, Java, PL/SQL softwares and WEB applications for real use.
+      Full-Stack & Back-End Developer with a strong focus on backend architecture, database management, and scalable systems. Experienced in Node.js, Java, SQL, and PL/SQL.
 </td>
 </tr>
 </table>
